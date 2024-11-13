@@ -5,7 +5,7 @@ import numpy as np
 import keras
 
 # Load the trained model from the .pkl file
-model = joblib.load('C:/Users/M.V.Vindhya/Downloads/model.pkl')  # Path to your model file
+model = joblib.load('model.pkl')  # Path to your model file
 
 # Title of the app
 st.title("Health and Lifestyle Questionnaire")
