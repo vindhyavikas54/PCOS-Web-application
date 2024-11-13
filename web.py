@@ -114,7 +114,7 @@ st.markdown(
 st.markdown('<div class="subtitle">PCOS Screening Questions</div>', unsafe_allow_html=True)
 st.markdown(
     """
-    <a href="http://localhost:8502/app.py" target="_blank">
+    <a href="https://pcos-web-application-zjunz3y98ulpl3eiukixi4.streamlit.app/" target="_blank">
         <button style="
             width: 200px;
             height: 50px;
